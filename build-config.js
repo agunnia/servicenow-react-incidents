@@ -7,5 +7,5 @@ config.optimization.splitChunks = {
         default: false,
     },
 };
-
+#test
 config.optimization.runtimeChunk = false;
